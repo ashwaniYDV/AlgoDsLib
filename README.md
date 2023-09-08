@@ -1,5 +1,5 @@
 # AlgoDsLib
-<img align="center" height="500" src="https://pbs.twimg.com/card_img/1669767598790311936/BWUhnzSx?format=jpg&name=4096x4096"/>
+<img align="center" src="banner.jpg"/>
 
 ## What is Hacktoberfest ?
 
