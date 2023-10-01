@@ -5,7 +5,7 @@
 
 Hacktoberfest is a month-long celebration of open-source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community!
 
-## A huge shoutout to contributors
+## A huge shoutout to contributors ❤️
 
 <!-- Copy-paste in your Readme.md file -->
 
