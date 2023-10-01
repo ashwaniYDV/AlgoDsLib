@@ -1,5 +1,5 @@
 # AlgoDsLib
-<img align="center" src="banner.jpg"/>
+<img align="center" src=".static/banner.jpg"/>
 
 ## What is Hacktoberfest ?
 
