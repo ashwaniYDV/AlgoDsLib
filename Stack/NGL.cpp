@@ -1,4 +1,4 @@
-//Find the nearest greater numbers on left side in an array (NSL)
+//Find the nearest greater numbers on left side in an array (NGL)
 
 vector<int> big_to_left(vector<int> const &input)
 {
